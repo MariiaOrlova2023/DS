@@ -9,7 +9,7 @@
 | [Защита данных клиентов страховой компании](https://github.com/MariiaOrlova2023/DS/tree/main/Data_protection)   |Разработка модели анонимизации персональных данных|Python, NumPy, Scikit-learn|
 | [Построение модели определения стоимости автомобиля](https://github.com/MariiaOrlova2023/DS/tree/main/Auto) |Разработка системы рекомендации стоимости автомобиля на основе его описания| Python, Pandas, LightGBM|
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/MariiaOrlova2023/DS/tree/main/Taxi) |Разработка системы предсказания объема заказа| Python, Pandas, Scikit-learn, CatBoost,  LightGBM, временные ряды |
-| Обучение модели классификации комментариев |     |     |
+| [Обучение модели классификации комментариев](https://github.com/MariiaOrlova2023/DS/tree/main/Text) |Определение токсичности комментариев|Python, Pandas, nltk, tf-idf|
 | Определение возраста покупателя по фото |     |     |
 
 ## Учебные проекты программы "Специалист по Data Science", анализ данных
